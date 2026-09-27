@@ -1,0 +1,15 @@
+{
+    "name": "InteractiveWallpaper.Runtime.EditorTests",
+    "rootNamespace": "InteractiveWallpaper.Tests",
+    "references": ["InteractiveWallpaper.Runtime"],
+    "optionalUnityReferences": ["TestAssemblies"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
